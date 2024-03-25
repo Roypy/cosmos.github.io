@@ -1,0 +1,26 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: #00003f;
+    color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+#landing-image{
+    height: auto;
+    width: 500px;
+}
+
+.intro-text{
+    display: inline;
+   
+    
+}
+
+.intro-text p{
+    text-align: left;
+    overflow-wrap: break-word;
+}
